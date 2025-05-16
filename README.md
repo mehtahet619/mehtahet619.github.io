@@ -82,7 +82,7 @@ GCET College, Gujarat
 - [✓] SQL for Data Analysis (Kaggle)
 - [✓] AR/VR Development (Meta)
 - [✓] UI/UX Design Fundamentals (Google)
-- [✓] C Programming (SoloLearn)
+- [✓] C Programming (Dartmouth)
 
 ---
 
